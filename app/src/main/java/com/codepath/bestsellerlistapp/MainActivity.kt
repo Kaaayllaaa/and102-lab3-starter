@@ -1,8 +1,3 @@
-package com.codepath.bestsellerlistapp
-
-import androidx.appcompat.app.AppCompatActivity
-import android.os.Bundle
-import com.codepath.bestsellerlistapp.R.id
 
 /**
  * The MainActivity for the BestSellerList app.
