@@ -27,6 +27,8 @@ private const val API_KEY = "giSipF0mHcdPHDo6AQaKTAYNSZCIYfSM"
 /*
  * The class for the only fragment in the app, which contains the progress bar,
  * recyclerView, and performs the network calls to the NY Times API.
+ *
+ *
  */
 class BestSellerBooksFragment : Fragment(), OnListFragmentInteractionListener {
 
